@@ -1,5 +1,9 @@
-Теперь здесь будут жить файлы-анархисты (пытаться)
+#Теперь здесь будут жить файлы-анархисты (пытаться)
 
-Файлы такого типа нужны для сокрытия файлов и папок от
-системы контроля версий.
-Подробнее: https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore
+#Файлы такого типа нужны для сокрытия файлов и папок от
+#системы контроля версий.
+#Подробнее: https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore
+.DS_STORE
+.idea
+.vscode
+.Thumbs.db
