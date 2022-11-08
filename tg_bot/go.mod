@@ -1,4 +1,4 @@
-module tg_bot
+module tg_bot //вот тут надо сделать go mod init github.com/vetrovosk/mooddiary это как ищется твой проект и где живет
 
 go 1.19
 
